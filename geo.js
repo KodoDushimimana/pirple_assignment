@@ -1,0 +1,2 @@
+Geolocation.GetCurrentLocation()
+Geolocation.WatchPosition()
